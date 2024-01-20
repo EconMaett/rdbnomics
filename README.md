@@ -10,7 +10,7 @@ Check out the package [vignette](https://cran.r-project.org/web/packages/rdbnomi
 
 The blog posts by [MACRO.ECPREMAP.FR](https://macro.cepremap.fr/category/data.html) are especially helpful.
 
-There also exist libraries for [Python](https://git.nomics.world/dbnomics/dbnomics-python-client) and [Julia](https://github.com/s915/DBnomics.jl)-
+There also exist libraries for [Python](https://git.nomics.world/dbnomics/dbnomics-python-client) and [Julia](https://github.com/s915/DBnomics.jl)
 
 
 # Citation
